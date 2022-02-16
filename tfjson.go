@@ -27,7 +27,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hashicorp/terraform/terraform"
+	"github.com/hashicorp/terraform"
 )
 
 func main() {
